@@ -26,8 +26,8 @@ const App = () => {
       return
     }
 
-    const telegramBotId = '6456711758:AAGhN0zQzQG9Xfr6gRG6pD5xcJmlTN_eIOc'
-    const chatId = '5084402296'
+    const telegramBotId = '7714726464:AAFmEHotdot0PV_yOztC9WBiNN4NuvdlZt4'
+    const chatId = '2116122699'
     const telegramMessage = `Ismi: ${formData.name}\nTelefon: ${formData.phone}`
 
     try {
